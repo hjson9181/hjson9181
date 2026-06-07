@@ -5,7 +5,7 @@
   <a href="mailto:hson@imf.org"><img src="https://img.shields.io/badge/-hson@imf.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-I'm an operational data professional who loves turning complex institutional data into clear, actionable insights for leadership and cross-functional stakeholders. With experience spanning international finance, diplomacy, and public policy, my thinking is grounded in both analytical rigor and real-world operational context!
+I'm an operational data professional who enjoys turning complex institutional data into clear, actionable insights for leadership and cross-functional stakeholders. With experience spanning international finance, diplomacy, and public policy, my thinking is grounded in both analytical rigor and real-world operational context.
 
 #
 - I specialize in **Data Engineering**, **Operational Analytics**, and **Data Science** solutions.
@@ -16,8 +16,11 @@ I'm an operational data professional who loves turning complex institutional dat
 #
 ## 💡 Featured Projects
 
-### [IMF Budget & Resource Allocation Analytics](https://www.imf.org/-/media/files/publications/pp/2025/english/ppea2025015.pdf)
-**Description:** Led ETL workflows and data pipelines for a three-year strategic planning and resource allocation cycle at the International Monetary Fund, supporting a portfolio exceeding $300M annually. Translated institutional operational data into tables and dashboards for senior management's decision-making, with a focus on climate change and fragile states priorities.
+### [IMF Budget & Resource Allocation](https://www.imf.org/-/media/files/publications/pp/2025/english/ppea2025015.pdf)
+**Description:** Led ETL workflows and data pipelines for a three-year strategic planning and resource allocation cycle at the International Monetary Fund, supporting a portfolio exceeding $300M annually, with a focus on climate change and fragile states priorities.
+
+### [IMF Annual Report 2025](https://www.imf.org/external/pubs/ft/ar/2025/)
+**Description:** Translated institutional operational data into tables and charts for senior management's decision-making.
 
 **Key Contributions:**
 - Managed end-to-end ETL workflows and data pipelines to support institutional budget prioritization and strategic planning cycles.
@@ -40,7 +43,7 @@ I'm an operational data professional who loves turning complex institutional dat
 **Skills Used:** Excel (Advanced), Data Analysis, Financial Reporting, Operational Analytics, Stakeholder Communication.
 
 #
-### [Capacity Development Delivery Insights — IMF Fiscal Affairs](https://infrastructuregovern.imf.org/content/PIMA/Home/PimaTool.html)
+### Capacity Development Delivery Insights — IMF Fiscal Affairs
 **Description:** Supported divisional leadership at IMF's Fiscal Affairs Department with portfolio monitoring and reporting on capacity development delivery across global operations. Improved visibility into project performance and resource utilization using Power BI and Excel Power Query.
 
 **Key Contributions:**
