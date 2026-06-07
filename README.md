@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/haejinson/"><img src="https://img.shields.io/badge/-Haejin%20Son-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hson@imf.org"><img src="https://img.shields.io/badge/-hson@imf.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:haejinson9181@gmail.com"><img src="https://img.shields.io/badge/-hson@imf.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 I'm an operational data professional who enjoys turning complex institutional data into clear, actionable insights for leadership and cross-functional stakeholders. With experience spanning international finance, diplomacy, and public policy, my thinking is grounded in both analytical rigor and real-world operational context.
